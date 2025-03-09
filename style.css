@@ -1,0 +1,38 @@
+body h1{
+    font-size: 40px;
+    text-align: center;
+}
+
+
+
+.dados {
+    border: solid 3px;
+    width: 300px;
+    height: 370px;
+
+
+
+}
+.dados img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.cargos h2 {
+    font-size: 30px;
+    text-align: center;
+
+}
+.formacao h2 {
+    font-size: 30px;
+    text-align: center;
+
+}
+.conhecimentos h2 {
+    font-size: 30px;
+    text-align: center;
+
+}
+
